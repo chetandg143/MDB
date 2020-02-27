@@ -1,0 +1,162 @@
+[
+  {
+    "ID": "1",
+    "Name": "Senpai",
+    "Hairstyle": "1",
+    "Color": "Black",
+    "ScheduleDestination": "Spawn_Locker_Hangout_Seat_LunchSpot_Seat_Hangout",
+    "ScheduleAction": "Stand_Stand_Read_Sit_Read_Sit_Read"
+  },
+  {
+    "ID": "2",
+    "Name": "Yui Rio",
+    "Hairstyle": "2",
+    "Color": "Red",
+    "ScheduleDestination": "Spawn_Locker_Hangout_Seat_LunchSpot_Seat_Club_Locker_Exit",
+    "ScheduleAction": "Stand_Stand_Socialize_Sit_Socialize_Sit_SocialSit_Shoes_Stand"
+  },
+  {
+    "ID": "3",
+    "Name": "Yuna Hina",
+    "Hairstyle": "3",
+    "Color": "Yellow",
+    "ScheduleDestination": "Spawn_Locker_Hangout_Seat_LunchSpot_Seat_Club_Locker_Exit",
+    "ScheduleAction": "Stand_Stand_Socialize_Sit_Socialize_Sit_SocialSit_Shoes_Stand"
+  },
+  {
+    "ID": "4",
+    "Name": "Koharu Hinata",
+    "Hairstyle": "4",
+    "Color": "Green",
+    "ScheduleDestination": "Spawn_Locker_Hangout_Seat_LunchSpot_Seat_Club_Locker_Exit",
+    "ScheduleAction": "Stand_Stand_Socialize_Sit_Socialize_Sit_SocialSit_Shoes_Stand"
+  },
+  {
+    "ID": "5",
+    "Name": "Mei Mio",
+    "Hairstyle": "5",
+    "Color": "Blue",
+    "ScheduleDestination": "Spawn_Locker_Hangout_Seat_LunchSpot_Seat_Club_Locker_Exit",
+    "ScheduleAction": "Stand_Stand_Socialize_Sit_Socialize_Sit_SocialSit_Shoes_Stand"
+  },
+  {
+    "ID": "6",
+    "Name": "Saki Miyu",
+    "Hairstyle": "6",
+    "Color": "Cyan",
+    "ScheduleDestination": "Spawn_Locker_Hangout_Seat_LunchSpot_Seat_Club_Locker_Exit",
+    "ScheduleAction": "Stand_Stand_Socialize_Sit_Socialize_Sit_SocialSit_Shoes_Stand"
+  },
+  {
+    "ID": "7",
+    "Name": "Kokona Haruka",
+    "Hairstyle": "7",
+    "Color": "Purple",
+    "ScheduleDestination": "Spawn_Locker_Hangout_Seat_LunchSpot_Seat_Club_Locker_Exit",
+    "ScheduleAction": "Stand_Stand_Socialize_Sit_Socialize_Sit_SocialSit_Shoes_Stand"
+  },
+  {
+    "ID": "8",
+    "Name": "Haruto Yuto",
+    "Hairstyle": "2",
+    "Color": "Red",
+    "ScheduleDestination": "Spawn_Locker_Hangout_Seat_LunchSpot_Seat_Locker_Exit",
+    "ScheduleAction": "Stand_Stand_Socialize_Sit_Socialize_Sit_Shoes_Stand"
+  },
+  {
+    "ID": "9",
+    "Name": "Sota Yuki",
+    "Hairstyle": "3",
+    "Color": "Yellow",
+    "ScheduleDestination": "Spawn_Locker_Hangout_Seat_LunchSpot_Seat_Locker_Exit",
+    "ScheduleAction": "Stand_Stand_Socialize_Sit_Socialize_Sit_Shoes_Stand"
+  },
+  {
+    "ID": "10",
+    "Name": "Hayato Haruki",
+    "Hairstyle": "4",
+    "Color": "Green",
+    "ScheduleDestination": "Spawn_Locker_Hangout_Seat_LunchSpot_Seat_Locker_Exit",
+    "ScheduleAction": "Stand_Stand_Socialize_Sit_Socialize_Sit_Shoes_Stand"
+  },
+  {
+    "ID": "11",
+    "Name": "Ryusei Koki",
+    "Hairstyle": "5",
+    "Color": "Blue",
+    "ScheduleDestination": "Spawn_Locker_Hangout_Seat_LunchSpot_Seat_Locker_Exit",
+    "ScheduleAction": "Stand_Stand_Socialize_Sit_Socialize_Sit_Shoes_Stand"
+  },
+  {
+    "ID": "12",
+    "Name": "Sora Sosuke",
+    "Hairstyle": "6",
+    "Color": "Cyan",
+    "ScheduleDestination": "Spawn_Locker_Hangout_Seat_LunchSpot_Seat_Locker_Exit",
+    "ScheduleAction": "Stand_Stand_Socialize_Sit_Socialize_Sit_Shoes_Stand"
+  },
+  {
+    "ID": "13",
+    "Name": "Riku Soma",
+    "Hairstyle": "7",
+    "Color": "Purple",
+    "ScheduleDestination": "Spawn_Locker_Hangout_Seat_LunchSpot_Seat_Stalk_Patrol_Locker_Exit",
+    "ScheduleAction": "Stand_Stand_Socialize_Sit_Socialize_Sit_Stalk_Patrol_Shoes_Stand"
+  },
+  {
+    "ID": "14",
+    "Name": "Pippi Osu",
+    "Hairstyle": "8",
+    "Color": "Pippi",
+    "ScheduleDestination": "Spawn_Locker_Hangout_Seat_Hangout_Seat_Hangout_Hangout",
+    "ScheduleAction": "Stand_Stand_Game_Sit_Game_Sit_Game_Game"
+  },
+  {
+    "ID": "15",
+    "Name": "Ryuto Ippongo",
+    "Hairstyle": "8",
+    "Color": "Red",
+    "ScheduleDestination": "Spawn_Locker_Hangout_Seat_Hangout_Seat_Hangout_Hangout",
+    "ScheduleAction": "Stand_Stand_Game_Sit_Game_Sit_Game_Game"
+  },
+  {
+    "ID": "16",
+    "Name": "Midori Gurin",
+    "Hairstyle": "9",
+    "Color": "Green",
+    "ScheduleDestination": "Spawn_Hangout_Hangout",
+    "ScheduleAction": "Stand_Text_Text"
+  },
+  {
+    "ID": "17",
+    "Name": "Sakyu Basu",
+    "Hairstyle": "10",
+    "Color": "Succubus1",
+    "ScheduleDestination": "Spawn_Locker_Hangout_Seat_LunchSpot_Seat_Locker_Exit",
+    "ScheduleAction": "Stand_Stand_Socialize_Sit_Eat_Sit_Shoes_Stand"
+  },
+  {
+    "ID": "18",
+    "Name": "Inkyu Basu",
+    "Hairstyle": "11",
+    "Color": "Succubus2",
+    "ScheduleDestination": "Spawn_Locker_Hangout_Seat_LunchSpot_Seat_Locker_Exit",
+    "ScheduleAction": "Stand_Stand_Socialize_Sit_Eat_Sit_Shoes_Stand"
+  },
+  {
+    "ID": "19",
+    "Name": "Kuu Dere",
+    "Hairstyle": "12",
+    "Color": "Kuudere",
+    "ScheduleDestination": "Spawn_Locker_Hangout_Seat_Hangout_Seat_Locker_Exit",
+    "ScheduleAction": "Stand_Stand_Read_Sit_Read_Sit_Shoes_Stand"
+  },
+  {
+    "ID": "20",
+    "Name": "Mai Waifu",
+    "Hairstyle": "13",
+    "Color": "Waifu",
+    "ScheduleDestination": "Spawn_Locker_Hangout_Seat_Hangout_Seat_Locker_Exit",
+    "ScheduleAction": "Stand_Stand_Stand_Sit_Stand_Sit_Shoes_Stand"
+  }
+  ]
