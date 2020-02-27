@@ -12,7 +12,6 @@ spark = SparkSession.builder.appName("spar_demo")\
 
 #code for read
 
-df = spark.read.format("com.mongodb.spark.sql.DefaultSource").option("uri",
-                                                                     "mongodb://192.168.1.96:27017/mydatabase.fdata").load()
+df = spark.read.format("com.mongodb.spark.sql.DefaultSource").option("uri","mongodb://192.168.1.96:27017/mydatabase.fdata").load()
 
 print(df.show())
